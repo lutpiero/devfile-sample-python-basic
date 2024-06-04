@@ -19,8 +19,7 @@ metadata:
     alpha.dockerimage-port: 8081
 parent:
   id: python
-  registryUrl: 'https://registry.devfile.io'
-  version: 2.1.0
+  registryUrl: 'https://registry.devfile.io'  
 components:
   - name: image-build
     image:
